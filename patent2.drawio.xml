@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" modified="2022-08-08T14:17:30.113Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/6.3.1 Chrome/94.0.4606.126 Safari/537.36" version="20.2.3" etag="tmz9i0q1idkjFlLaRDgz" type="device">
-  <diagram id="jJcKT7y6csTA9DUdq2J_">
-    <mxGraphModel dx="1328" dy="1513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-08-09T09:16:14.716Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/6.3.1 Chrome/94.0.4606.126 Safari/537.36" version="20.2.3" etag="lQL6OeOMyv-CN4KlBfmu" type="github">
+  <diagram id="z1nWBHOKmwV52lTI1T8M">
+    <mxGraphModel dx="2553" dy="1513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,10 +76,10 @@
         <mxCell id="24" value="编码器网络&lt;br&gt;（孪生网络）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="270" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="25" value="" style="endArrow=openThin;startArrow=openThin;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startFill=0;endFill=0;" edge="1" source="15" target="17" parent="1">
+        <mxCell id="25" value="" style="endArrow=openThin;startArrow=openThin;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startFill=0;endFill=0;" edge="1" source="15" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="810" as="sourcePoint" />
-            <mxPoint x="370" y="760" as="targetPoint" />
+            <mxPoint x="280" y="471" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="26" value="更新" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
