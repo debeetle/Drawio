@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T15:43:50.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="UUCTtiVTJbQhKCwbiMHu" version="22.1.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T03:25:52.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="2bvNWkpHIu9rHmp_qirR" version="22.1.13" type="github">
   <diagram name="第 1 页" id="5hUh-e7LYVzBwPmCk2DY">
     <mxGraphModel dx="1422" dy="1857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,13 +37,13 @@
         <mxCell id="-2lI1kvxWh023HJQ2cCv-15" value="" style="line;strokeWidth=2;direction=south;html=1;dashed=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="155" y="190" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-2lI1kvxWh023HJQ2cCv-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;奖励&lt;br&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;R&lt;sub&gt;t&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="-2lI1kvxWh023HJQ2cCv-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;奖励&lt;/b&gt;&lt;br&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;R&lt;sub&gt;t&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="120" y="150" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-2lI1kvxWh023HJQ2cCv-30" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;状态&lt;br&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;S&lt;sub&gt;t&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="-2lI1kvxWh023HJQ2cCv-30" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;状态&lt;/b&gt;&lt;br&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;S&lt;sub&gt;t&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="30" y="150" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-2lI1kvxWh023HJQ2cCv-31" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;动作&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;A&lt;sub&gt;t&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="-2lI1kvxWh023HJQ2cCv-31" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;动作&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;A&lt;sub&gt;t&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="399" y="150" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-2lI1kvxWh023HJQ2cCv-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=宋体;" parent="1" source="-2lI1kvxWh023HJQ2cCv-2" target="-2lI1kvxWh023HJQ2cCv-15" edge="1">
