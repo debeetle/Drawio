@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T08:52:22.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="P_WuHlkqEVxuBuGyIuFy" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-29T05:01:27.032Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="xC5oetBHhDVynZ0T535I" version="22.1.15" type="github">
   <diagram name="第 1 页" id="_9YtetrDvufWfbgxIxy6">
     <mxGraphModel dx="2622" dy="2257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,11 +10,8 @@
         <mxCell id="j9Trd8sfjwHy8gCJ8K8i-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=宋体;fontStyle=1;strokeWidth=2;dashed=1;fontSize=16;strokeColor=#808080;" parent="1" vertex="1">
           <mxGeometry x="-930" y="-180" width="320" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="j9Trd8sfjwHy8gCJ8K8i-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=宋体;fontStyle=1;strokeWidth=2;dashed=1;fontSize=16;strokeColor=#808080;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="-180" width="90" height="400" as="geometry" />
-        </mxCell>
         <mxCell id="j9Trd8sfjwHy8gCJ8K8i-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=宋体;fontStyle=1;strokeWidth=2;dashed=1;fontSize=16;strokeColor=#808080;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="-180" width="90" height="400" as="geometry" />
+          <mxGeometry x="-240" y="-180" width="200" height="400" as="geometry" />
         </mxCell>
         <mxCell id="j9Trd8sfjwHy8gCJ8K8i-88" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=宋体;fontStyle=1;strokeWidth=2;dashed=1;fontSize=16;strokeColor=#808080;" parent="1" vertex="1">
           <mxGeometry x="-600" y="-180" width="350" height="400" as="geometry" />
@@ -137,10 +134,10 @@
         <mxCell id="j9Trd8sfjwHy8gCJ8K8i-53" value="综&lt;br&gt;合&lt;br&gt;管&lt;br&gt;理&lt;br&gt;控&lt;br&gt;制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=16;fontFamily=宋体;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-120" y="-150" width="50" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="j9Trd8sfjwHy8gCJ8K8i-55" value="" style="line;strokeWidth=2;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="j9Trd8sfjwHy8gCJ8K8i-55" value="" style="line;strokeWidth=4;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-910" y="200" width="740" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="j9Trd8sfjwHy8gCJ8K8i-56" value="" style="line;strokeWidth=5;direction=south;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="j9Trd8sfjwHy8gCJ8K8i-56" value="" style="line;strokeWidth=8;direction=south;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-20" y="-160" width="10" height="320" as="geometry" />
         </mxCell>
         <mxCell id="j9Trd8sfjwHy8gCJ8K8i-73" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontStyle=1" parent="1" edge="1">
@@ -192,6 +189,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-470" y="-40" as="sourcePoint" />
             <mxPoint x="-420" y="-90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8UJFz4ohCzCz3Hetbb6X-1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpSize=6;startArrow=classic;startFill=1;entryX=0.343;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j9Trd8sfjwHy8gCJ8K8i-16" target="j9Trd8sfjwHy8gCJ8K8i-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-655" y="200" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
