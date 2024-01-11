@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T02:34:05.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="5ZXaFijZp2pAnxp0vJgO" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T02:39:58.352Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="TuoT_2dSR29gzMr9xmma" version="22.1.18" type="github">
   <diagram name="第 1 页" id="HHsCbOhWLAx_uhxe6TRV">
     <mxGraphModel dx="2885" dy="1337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -139,7 +139,7 @@
             <mxPoint x="300" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oy_fxyoAN_TUTj9ulkCC-157" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;神经元 \(k\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="oy_fxyoAN_TUTj9ulkCC-157" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;卷积核 \(k\)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="340" y="270" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rk7JOx87DeSqEpEm6Nh5-8" value="" style="group;fontStyle=0" parent="1" vertex="1" connectable="0">
@@ -298,7 +298,7 @@
         <mxCell id="RZOdrIwuuMXz7j8_tpKI-5" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 15px;&quot;&gt;$$w_{N_{l-1}k}^{l-1}$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="70" y="480" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RZOdrIwuuMXz7j8_tpKI-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;$$w_{kN_l}^l$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="RZOdrIwuuMXz7j8_tpKI-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;$$w_{kN_{l+1}}^l$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="590" y="410" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RZOdrIwuuMXz7j8_tpKI-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;$$w_{k2}^l$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
