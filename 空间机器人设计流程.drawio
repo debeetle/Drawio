@@ -20,19 +20,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="afKLm_PC3EemGSfm7CoD-4" value="&lt;font&gt;轨道转移路径规划&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=STZhongsong;fontSize=14;labelBackgroundColor=none;fillColor=none;align=center;" parent="1" vertex="1">
-          <mxGeometry x="320" y="320" width="100" height="40" as="geometry" />
+          <mxGeometry x="310" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="afKLm_PC3EemGSfm7CoD-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontFamily=STZhongsong;labelBackgroundColor=none;align=center;" parent="1" source="afKLm_PC3EemGSfm7CoD-5" target="afKLm_PC3EemGSfm7CoD-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="afKLm_PC3EemGSfm7CoD-5" value="&lt;font&gt;调整路线&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=STZhongsong;fontSize=14;labelBackgroundColor=none;fillColor=none;align=center;" parent="1" vertex="1">
-          <mxGeometry x="320" y="500" width="100" height="40" as="geometry" />
+          <mxGeometry x="340" y="500" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1DFn0U-I_F6bpOYvCM6v-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="afKLm_PC3EemGSfm7CoD-6" target="afKLm_PC3EemGSfm7CoD-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="afKLm_PC3EemGSfm7CoD-6" value="&lt;font&gt;维持路线&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=STZhongsong;fontSize=14;labelBackgroundColor=none;fillColor=none;align=center;" parent="1" vertex="1">
-          <mxGeometry x="160" y="500" width="80" height="40" as="geometry" />
+          <mxGeometry x="220" y="500" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="afKLm_PC3EemGSfm7CoD-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=14;fontFamily=STZhongsong;labelBackgroundColor=none;align=center;" parent="1" source="afKLm_PC3EemGSfm7CoD-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -95,7 +95,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="afKLm_PC3EemGSfm7CoD-10" value="&lt;font&gt;任务监控与通讯&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=STZhongsong;fontSize=14;labelBackgroundColor=none;fillColor=none;align=center;" parent="1" vertex="1">
-          <mxGeometry x="320" y="760" width="100" height="40" as="geometry" />
+          <mxGeometry x="310" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="afKLm_PC3EemGSfm7CoD-11" value="&lt;font&gt;清除任务完成&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=STZhongsong;fontSize=14;labelBackgroundColor=none;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="320" y="830" width="100" height="40" as="geometry" />
