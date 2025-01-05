@@ -47,7 +47,7 @@
           <mxGeometry x="310" y="530" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="J7E_O0jyxwBRZn3jiCba-12" value="&lt;div&gt;collada-dom&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;STZhongsong&quot;&gt;用于交互式 &lt;/font&gt;3D&lt;font face=&quot;STZhongsong&quot;&gt; 应用程序的独立交换格式&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="320" y="550" width="200" height="60" as="geometry" />
+          <mxGeometry x="320" y="540" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J7E_O0jyxwBRZn3jiCba-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="560" y="420" width="220" height="90" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="560" y="420" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J7E_O0jyxwBRZn3jiCba-28" value="&lt;font face=&quot;Courier New&quot;&gt;Ubuntu Universe&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="530" width="220" height="20" as="geometry" />
+          <mxGeometry x="310" y="600" width="220" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
