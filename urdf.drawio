@@ -62,13 +62,19 @@
           <mxGeometry x="570" y="220" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J7E_O0jyxwBRZn3jiCba-24" value="&lt;font face=&quot;Courier New&quot;&gt;ros/collada_urdf&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="315" y="420" width="210" height="20" as="geometry" />
+          <mxGeometry x="310" y="420" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J7E_O0jyxwBRZn3jiCba-25" value="&lt;font face=&quot;Courier New&quot;&gt;ros/urdfdom&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="65" y="420" width="210" height="20" as="geometry" />
+          <mxGeometry x="60" y="420" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J7E_O0jyxwBRZn3jiCba-26" value="&lt;font face=&quot;Courier New&quot;&gt;ros/urdfdom_headers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="565" y="200" width="210" height="20" as="geometry" />
+          <mxGeometry x="560" y="200" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J7E_O0jyxwBRZn3jiCba-27" value="&lt;font face=&quot;Courier New&quot;&gt;osrf/sdformat&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="420" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J7E_O0jyxwBRZn3jiCba-28" value="&lt;font face=&quot;Courier New&quot;&gt;Ubuntu Universe&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="530" width="220" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
