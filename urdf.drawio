@@ -7,8 +7,20 @@
         <mxCell id="J7E_O0jyxwBRZn3jiCba-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="300" y="200" width="240" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="J7E_O0jyxwBRZn3jiCba-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="J7E_O0jyxwBRZn3jiCba-2" target="J7E_O0jyxwBRZn3jiCba-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J7E_O0jyxwBRZn3jiCba-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J7E_O0jyxwBRZn3jiCba-2" target="J7E_O0jyxwBRZn3jiCba-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="J7E_O0jyxwBRZn3jiCba-2" value="urdf&lt;div&gt;&lt;font face=&quot;STZhongsong&quot;&gt;解析器的&lt;/font&gt; ROS &lt;font face=&quot;STZhongsong&quot;&gt;封装包&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;STZhongsong&quot;&gt;插件和&lt;/font&gt; urdf&lt;font face=&quot;STZhongsong&quot;&gt;文件头&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="320" y="220" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J7E_O0jyxwBRZn3jiCba-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="J7E_O0jyxwBRZn3jiCba-3" target="J7E_O0jyxwBRZn3jiCba-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J7E_O0jyxwBRZn3jiCba-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J7E_O0jyxwBRZn3jiCba-3" target="J7E_O0jyxwBRZn3jiCba-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J7E_O0jyxwBRZn3jiCba-3" value="urdf_parse_plugin&lt;div&gt;&lt;font face=&quot;STZhongsong&quot;&gt;解析器填充 &lt;/font&gt;&lt;font face=&quot;Courier New&quot;&gt;URDF&lt;/font&gt;&lt;font face=&quot;STZhongsong&quot;&gt; 数据结构的基类接口&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="320" y="310" width="200" height="60" as="geometry" />
@@ -18,6 +30,9 @@
         </mxCell>
         <mxCell id="J7E_O0jyxwBRZn3jiCba-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="300" y="440" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="J7E_O0jyxwBRZn3jiCba-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J7E_O0jyxwBRZn3jiCba-7" target="J7E_O0jyxwBRZn3jiCba-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J7E_O0jyxwBRZn3jiCba-7" value="&lt;div&gt;collada_parser&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;STZhongsong&quot;&gt;通过解析 &lt;/font&gt;&lt;font face=&quot;Courier New&quot;&gt;Collada&lt;/font&gt;&lt;font face=&quot;STZhongsong&quot;&gt; 文件填充 &lt;/font&gt;URDF&lt;font face=&quot;STZhongsong&quot;&gt; 数据结构&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="320" y="460" width="200" height="60" as="geometry" />
