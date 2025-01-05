@@ -65,7 +65,7 @@
           <mxGeometry x="310" y="410" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J7E_O0jyxwBRZn3jiCba-25" value="&lt;font style=&quot;color: rgb(102, 102, 102);&quot; face=&quot;Courier New&quot;&gt;ros/urdfdom&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="410" width="220" height="20" as="geometry" />
+          <mxGeometry x="100" y="410" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J7E_O0jyxwBRZn3jiCba-26" value="&lt;font style=&quot;color: rgb(102, 102, 102);&quot; face=&quot;Courier New&quot;&gt;ros/urdfdom_headers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="210" width="200" height="20" as="geometry" />
