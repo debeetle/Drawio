@@ -1,20 +1,50 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
   <diagram name="Page-1" id="VeqiZ1rBR46TBuChe6Sr">
-    <mxGraphModel dx="763" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="926" dy="1139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="J7E_O0jyxwBRZn3jiCba-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="260" y="200" width="240" height="200" as="geometry" />
+          <mxGeometry x="300" y="200" width="240" height="200" as="geometry" />
         </mxCell>
         <mxCell id="J7E_O0jyxwBRZn3jiCba-2" value="urdf&lt;div&gt;&lt;font face=&quot;STZhongsong&quot;&gt;解析器的&lt;/font&gt; ROS &lt;font face=&quot;STZhongsong&quot;&gt;封装包&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;STZhongsong&quot;&gt;插件和&lt;/font&gt; urdf&lt;font face=&quot;STZhongsong&quot;&gt;文件头&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="280" y="220" width="200" height="60" as="geometry" />
+          <mxGeometry x="320" y="220" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J7E_O0jyxwBRZn3jiCba-3" value="urdf_parse_plugin&lt;div&gt;&lt;font face=&quot;STZhongsong&quot;&gt;解析器填充 &lt;/font&gt;&lt;font face=&quot;Courier New&quot;&gt;URDF&lt;/font&gt;&lt;font face=&quot;STZhongsong&quot;&gt; 数据结构的基类接口&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="280" y="310" width="200" height="60" as="geometry" />
+          <mxGeometry x="320" y="310" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J7E_O0jyxwBRZn3jiCba-4" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;STZhongsong&quot;&gt;抽象层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="370" width="60" height="30" as="geometry" />
+          <mxGeometry x="390" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J7E_O0jyxwBRZn3jiCba-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="300" y="440" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="J7E_O0jyxwBRZn3jiCba-7" value="&lt;div&gt;collada_parser&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;STZhongsong&quot;&gt;通过解析 &lt;/font&gt;&lt;font face=&quot;Courier New&quot;&gt;Collada&lt;/font&gt;&lt;font face=&quot;STZhongsong&quot;&gt; 文件填充 &lt;/font&gt;URDF&lt;font face=&quot;STZhongsong&quot;&gt; 数据结构&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="320" y="460" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J7E_O0jyxwBRZn3jiCba-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="J7E_O0jyxwBRZn3jiCba-10" value="&lt;div&gt;urdfdom&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;STZhongsong&quot;&gt;通过解析 &lt;/font&gt;URDF&lt;font face=&quot;STZhongsong&quot;&gt;&amp;nbsp;文件填充 &lt;/font&gt;URDF&lt;font face=&quot;STZhongsong&quot;&gt; 数据结构&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="60" y="460" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J7E_O0jyxwBRZn3jiCba-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="300" y="560" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="J7E_O0jyxwBRZn3jiCba-12" value="&lt;div&gt;collada-dom&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;STZhongsong&quot;&gt;用于交互式 &lt;/font&gt;3D&lt;font face=&quot;STZhongsong&quot;&gt; 应用程序的独立交换格式&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="320" y="580" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J7E_O0jyxwBRZn3jiCba-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="560" y="440" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="J7E_O0jyxwBRZn3jiCba-15" value="&lt;div&gt;sdformat&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;Gazebo&lt;/font&gt;&lt;font face=&quot;STZhongsong&quot;&gt; 使用的仿真描述格式&lt;/font&gt;&lt;font face=&quot;Courier New&quot;&gt;（SDF）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="580" y="460" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J7E_O0jyxwBRZn3jiCba-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="J7E_O0jyxwBRZn3jiCba-17" value="&lt;div&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; face=&quot;Courier New&quot;&gt;urdfdom_headers&lt;/font&gt;&lt;/div&gt;&lt;div&gt;头文件中解析的 &lt;font face=&quot;Courier New&quot;&gt;URDF&lt;/font&gt; 的数据结构&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="580" y="220" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
