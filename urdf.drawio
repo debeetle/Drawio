@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="J7E_O0jyxwBRZn3jiCba-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="260" y="200" width="240" height="210" as="geometry" />
+          <mxGeometry x="260" y="200" width="240" height="200" as="geometry" />
         </mxCell>
         <mxCell id="J7E_O0jyxwBRZn3jiCba-2" value="urdf&lt;div&gt;&lt;font face=&quot;STZhongsong&quot;&gt;解析器的&lt;/font&gt; ROS &lt;font face=&quot;STZhongsong&quot;&gt;封装包&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;STZhongsong&quot;&gt;插件和&lt;/font&gt; urdf&lt;font face=&quot;STZhongsong&quot;&gt;文件头&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="280" y="230" width="200" height="60" as="geometry" />
+          <mxGeometry x="280" y="220" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J7E_O0jyxwBRZn3jiCba-3" value="urdf_parse_plugin&lt;div&gt;&lt;font face=&quot;STZhongsong&quot;&gt;解析器填充 &lt;/font&gt;&lt;font face=&quot;Courier New&quot;&gt;URDF&lt;/font&gt;&lt;font face=&quot;STZhongsong&quot;&gt; 数据结构的基类接口&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="280" y="320" width="200" height="60" as="geometry" />
+          <mxGeometry x="280" y="310" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J7E_O0jyxwBRZn3jiCba-4" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;STZhongsong&quot;&gt;抽象层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="380" width="60" height="30" as="geometry" />
+          <mxGeometry x="350" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
