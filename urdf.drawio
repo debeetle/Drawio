@@ -61,6 +61,15 @@
         <mxCell id="J7E_O0jyxwBRZn3jiCba-17" value="&lt;div&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; face=&quot;Courier New&quot;&gt;urdfdom_headers&lt;/font&gt;&lt;/div&gt;&lt;div&gt;头文件中解析的 &lt;font face=&quot;Courier New&quot;&gt;URDF&lt;/font&gt; 的数据结构&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="570" y="220" width="200" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="J7E_O0jyxwBRZn3jiCba-24" value="&lt;font face=&quot;Courier New&quot;&gt;ros/collada_urdf&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="420" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J7E_O0jyxwBRZn3jiCba-25" value="&lt;font face=&quot;Courier New&quot;&gt;ros/urdfdom&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="420" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J7E_O0jyxwBRZn3jiCba-26" value="&lt;font face=&quot;Courier New&quot;&gt;ros/urdfdom_headers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="565" y="200" width="210" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
