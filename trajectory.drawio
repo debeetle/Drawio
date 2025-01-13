@@ -6,8 +6,8 @@
         <mxCell id="1" parent="0" />
         <mxCell id="0nwcVcElCAd780YRcSAK-1" value="" style="endArrow=none;html=1;rounded=0;startArrow=classicThin;startFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="640" as="sourcePoint" />
-            <mxPoint x="360" y="480" as="targetPoint" />
+            <mxPoint x="361.14285714285734" y="640" as="sourcePoint" />
+            <mxPoint x="361.14285714285734" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0nwcVcElCAd780YRcSAK-4" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" edge="1" parent="1">
@@ -31,10 +31,10 @@
             <mxPoint x="360" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0nwcVcElCAd780YRcSAK-7" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;$$\theta_2$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0nwcVcElCAd780YRcSAK-7" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;$$\theta_2$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=west;flipV=0;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="564" width="13" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="0nwcVcElCAd780YRcSAK-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;$$\theta_1$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0nwcVcElCAd780YRcSAK-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;$$\theta_1$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=west;flipV=0;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="578" width="10" height="13" as="geometry" />
         </mxCell>
       </root>
