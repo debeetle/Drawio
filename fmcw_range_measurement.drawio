@@ -85,7 +85,7 @@
         <mxCell id="an4SQWw4vg68RLIjhER1-7" value="" style="endArrow=classicThin;rounded=0;endFill=1;fontFamily=Latin Modern Math;fontSize=18;strokeWidth=1.2;labelBackgroundColor=none;labelBorderColor=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="880" as="sourcePoint" />
-            <mxPoint x="200" y="620" as="targetPoint" />
+            <mxPoint x="200" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="an4SQWw4vg68RLIjhER1-8" value="" style="endArrow=classicThin;rounded=0;endFill=1;fontFamily=Latin Modern Math;fontSize=18;strokeWidth=1.2;labelBackgroundColor=none;labelBorderColor=none;html=1;" edge="1" parent="1">
@@ -126,21 +126,21 @@
         </mxCell>
         <mxCell id="an4SQWw4vg68RLIjhER1-17" value="" style="endArrow=none;rounded=0;fillColor=#e51400;strokeColor=light-dark(#FF0000,#FF0000);fontFamily=Latin Modern Math;fontSize=18;strokeWidth=1.2;curved=0;labelBackgroundColor=none;labelBorderColor=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="670" as="sourcePoint" />
-            <mxPoint x="250" y="670" as="targetPoint" />
+            <mxPoint x="440" y="670" as="sourcePoint" />
+            <mxPoint x="480" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="an4SQWw4vg68RLIjhER1-18" value="" style="endArrow=none;rounded=0;fillColor=#0050ef;strokeColor=light-dark(#001DBC,#007FFF);fontFamily=Latin Modern Math;fontSize=18;strokeWidth=1.2;labelBackgroundColor=none;labelBorderColor=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="640" as="sourcePoint" />
-            <mxPoint x="250" y="640" as="targetPoint" />
+            <mxPoint x="440" y="640" as="sourcePoint" />
+            <mxPoint x="480" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="an4SQWw4vg68RLIjhER1-19" value="Transmitted signal" style="text;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Latin Modern Math;strokeWidth=2;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="630" width="160" height="20" as="geometry" />
+          <mxGeometry x="480" y="630" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="an4SQWw4vg68RLIjhER1-20" value="Received signal" style="text;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Latin Modern Math;strokeWidth=2;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="660" width="130" height="20" as="geometry" />
+          <mxGeometry x="485" y="660" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="an4SQWw4vg68RLIjhER1-21" value="" style="endArrow=none;rounded=0;fillColor=#0050ef;strokeColor=light-dark(#001DBC,#007FFF);fontFamily=Latin Modern Math;fontSize=18;strokeWidth=1.2;labelBackgroundColor=none;labelBorderColor=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -196,7 +196,7 @@
             <mxPoint x="370" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="an4SQWw4vg68RLIjhER1-34" value="$$t_c$$" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=18;" connectable="0" vertex="1" parent="an4SQWw4vg68RLIjhER1-33">
+        <mxCell id="an4SQWw4vg68RLIjhER1-34" value="$$\frac{T}{2}$$" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=18;" connectable="0" vertex="1" parent="an4SQWw4vg68RLIjhER1-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="an4SQWw4vg68RLIjhER1-35" value="" style="endArrow=none;html=1;rounded=0;dashed=1;strokeColor=light-dark(#000000,#F6F6F6);fontSize=18;" edge="1" parent="1">
