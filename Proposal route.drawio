@@ -1,20 +1,150 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15" version="28.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Page-1" id="j6EZwjGQ67m9TPqeHW6B">
-    <mxGraphModel dx="1088" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2054" dy="1173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Gsg3JaBCWfEG1OoBz1Kp-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="120" width="160" height="120" as="geometry" />
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-1" value="热致超声产生机理与传播特性分析" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gsg3JaBCWfEG1OoBz1Kp-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="120" width="160" height="120" as="geometry" />
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-2" value="热致超声相控阵设计与信号处理方法" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gsg3JaBCWfEG1OoBz1Kp-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="280" width="160" height="120" as="geometry" />
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bJb0y8-bqo0EEfEMBelf-6" target="bJb0y8-bqo0EEfEMBelf-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gsg3JaBCWfEG1OoBz1Kp-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="280" width="160" height="120" as="geometry" />
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-6" value="推导热声耦合方程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bJb0y8-bqo0EEfEMBelf-7" target="bJb0y8-bqo0EEfEMBelf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-7" value="伪谱法求解“真值”" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bJb0y8-bqo0EEfEMBelf-8" target="bJb0y8-bqo0EEfEMBelf-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-8" value="测量热声材料响应&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E4%BC%AA%E8%B0%B1%E6%B3%95%E6%B1%82%E8%A7%A3%E2%80%9C%E7%9C%9F%E5%80%BC%E2%80%9D%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3Dnone%3BfontSize%3D13%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22205%22%20y%3D%22160%22%20width%3D%22110%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-9" value="构建PINN热声耦合模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="187.5" y="240" width="145" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bJb0y8-bqo0EEfEMBelf-11" target="bJb0y8-bqo0EEfEMBelf-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-11" value="热声换能器单元设计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="120" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bJb0y8-bqo0EEfEMBelf-12" target="bJb0y8-bqo0EEfEMBelf-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-12" value="相控阵列布局设计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="160" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bJb0y8-bqo0EEfEMBelf-13" target="bJb0y8-bqo0EEfEMBelf-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bJb0y8-bqo0EEfEMBelf-13" target="bJb0y8-bqo0EEfEMBelf-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-13" value="仿蝙蝠结构设计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="610" y="180" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bJb0y8-bqo0EEfEMBelf-14" target="bJb0y8-bqo0EEfEMBelf-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-14" value="MEMS麦克风阵列" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="455" y="200" width="145" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-15" value="声呐信号处理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="240" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-16" value="强化学习的无人车智能避障方法" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-17" value="热致超声感知系统研制与智能避障实验" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bJb0y8-bqo0EEfEMBelf-19" target="bJb0y8-bqo0EEfEMBelf-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bJb0y8-bqo0EEfEMBelf-32" target="bJb0y8-bqo0EEfEMBelf-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-32" value="激励调制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bJb0y8-bqo0EEfEMBelf-34" target="bJb0y8-bqo0EEfEMBelf-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-34" value="智能避障算法研究" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bJb0y8-bqo0EEfEMBelf-36" target="bJb0y8-bqo0EEfEMBelf-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-36" value="奖惩函数优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-38" value="模型迭代" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="220" y="480" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bJb0y8-bqo0EEfEMBelf-43" target="bJb0y8-bqo0EEfEMBelf-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-43" value="相控阵FPGA驱动板设计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="505" y="360" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bJb0y8-bqo0EEfEMBelf-45" target="bJb0y8-bqo0EEfEMBelf-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-45" value="无人车载热声呐系统集成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="500" y="400" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bJb0y8-bqo0EEfEMBelf-47" target="bJb0y8-bqo0EEfEMBelf-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-47" value="车载热声呐避障实验" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="510" y="440" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-48" value="车载热声呐性能评估" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="510" y="480" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bJb0y8-bqo0EEfEMBelf-49" target="bJb0y8-bqo0EEfEMBelf-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="bJb0y8-bqo0EEfEMBelf-51" target="bJb0y8-bqo0EEfEMBelf-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bJb0y8-bqo0EEfEMBelf-52" target="bJb0y8-bqo0EEfEMBelf-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="420" />
+              <mxPoint x="760" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJb0y8-bqo0EEfEMBelf-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="280" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
