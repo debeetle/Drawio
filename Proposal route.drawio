@@ -14,7 +14,7 @@
           <mxGeometry height="200" width="280" x="400" y="80" as="geometry" />
         </mxCell>
         <mxCell id="bJb0y8-bqo0EEfEMBelf-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;fontFamily=STZhongsong;" value="热致超声产生机理与传播特性分析" vertex="1">
-          <mxGeometry height="30" width="280" x="120" y="80" as="geometry" />
+          <mxGeometry height="30" width="200" x="160" y="80" as="geometry" />
         </mxCell>
         <mxCell id="bJb0y8-bqo0EEfEMBelf-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;fontFamily=STZhongsong;" value="热致超声相控阵设计与信号处理方法" vertex="1">
           <mxGeometry height="30" width="280" x="400" y="80" as="geometry" />
